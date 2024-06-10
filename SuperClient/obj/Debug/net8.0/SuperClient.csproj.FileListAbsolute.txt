@@ -1,0 +1,14 @@
+C:\Users\qwerty\Desktop\программы и работы для шараги\Курсы. SOLID СТРЕБКОВ\Dz13AP\SuperClient\bin\Debug\net8.0\SuperClient.exe
+C:\Users\qwerty\Desktop\программы и работы для шараги\Курсы. SOLID СТРЕБКОВ\Dz13AP\SuperClient\bin\Debug\net8.0\SuperClient.deps.json
+C:\Users\qwerty\Desktop\программы и работы для шараги\Курсы. SOLID СТРЕБКОВ\Dz13AP\SuperClient\bin\Debug\net8.0\SuperClient.runtimeconfig.json
+C:\Users\qwerty\Desktop\программы и работы для шараги\Курсы. SOLID СТРЕБКОВ\Dz13AP\SuperClient\bin\Debug\net8.0\SuperClient.dll
+C:\Users\qwerty\Desktop\программы и работы для шараги\Курсы. SOLID СТРЕБКОВ\Dz13AP\SuperClient\bin\Debug\net8.0\SuperClient.pdb
+C:\Users\qwerty\Desktop\программы и работы для шараги\Курсы. SOLID СТРЕБКОВ\Dz13AP\SuperClient\obj\Debug\net8.0\SuperClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\qwerty\Desktop\программы и работы для шараги\Курсы. SOLID СТРЕБКОВ\Dz13AP\SuperClient\obj\Debug\net8.0\SuperClient.AssemblyInfoInputs.cache
+C:\Users\qwerty\Desktop\программы и работы для шараги\Курсы. SOLID СТРЕБКОВ\Dz13AP\SuperClient\obj\Debug\net8.0\SuperClient.AssemblyInfo.cs
+C:\Users\qwerty\Desktop\программы и работы для шараги\Курсы. SOLID СТРЕБКОВ\Dz13AP\SuperClient\obj\Debug\net8.0\SuperClient.csproj.CoreCompileInputs.cache
+C:\Users\qwerty\Desktop\программы и работы для шараги\Курсы. SOLID СТРЕБКОВ\Dz13AP\SuperClient\obj\Debug\net8.0\SuperClient.dll
+C:\Users\qwerty\Desktop\программы и работы для шараги\Курсы. SOLID СТРЕБКОВ\Dz13AP\SuperClient\obj\Debug\net8.0\refint\SuperClient.dll
+C:\Users\qwerty\Desktop\программы и работы для шараги\Курсы. SOLID СТРЕБКОВ\Dz13AP\SuperClient\obj\Debug\net8.0\SuperClient.pdb
+C:\Users\qwerty\Desktop\программы и работы для шараги\Курсы. SOLID СТРЕБКОВ\Dz13AP\SuperClient\obj\Debug\net8.0\SuperClient.genruntimeconfig.cache
+C:\Users\qwerty\Desktop\программы и работы для шараги\Курсы. SOLID СТРЕБКОВ\Dz13AP\SuperClient\obj\Debug\net8.0\ref\SuperClient.dll
